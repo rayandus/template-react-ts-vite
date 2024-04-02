@@ -4,12 +4,19 @@ Jump straight into development with this pre-configured React app template.
 This template removes the hassle of initial setup and configuration, allowing you to focus on bringing your ideas to life from the get-go.
 
 Preconfigured with:
+
 `Reactjs`. Front-end library for building web apps based on components.
+
 `Typescript`. Typed language for Javascript.
+
 `Vite`. The local development server.
+
 `Eslint`. To enforce coding patterns
+
 `Prettier`. For consistent code styling and formatting
+
 `Emotion Style`. You may opt for traditional css or utility classes, but I prefer CSS-in-JS.
+
 `React Router`. Most of the time, your app would need routing.
 
 ## Prerequisite
