@@ -22,14 +22,14 @@ Preconfigured with:
 
 1. Make a copy of the project template (do not git clone)
 
-  ```bash
-  npm install -g degit
-  degit git@github.com:rayandus/store-locator-demo.git my-app
-  ```
-
-  > `degit` makes a copy of the repository without the git history.
-  >
-  > Hence, you need to do a `git init` to initialze the app as a new git project
+   ```bash
+   npm install -g degit
+   degit git@github.com:rayandus/store-locator-demo.git my-app
+   ```
+   
+   > `degit` makes a copy of the repository without the git history.
+   >
+   > Hence, you need to do a `git init` to initialze the app as a new git project
 
 1. Go to project root directory and install
 
