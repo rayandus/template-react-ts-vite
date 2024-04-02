@@ -1,8 +1,9 @@
 {
-  "name": "chat-pwa",
+  "name": "@rma/template-react-ts-vite",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Ray Andus",
+  "license": "MIT",
   "engines": {
     "node": ">=20.11.1"
   },
@@ -18,13 +19,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
