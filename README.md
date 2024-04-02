@@ -24,7 +24,7 @@ Preconfigured with:
 
    ```bash
    npm install -g degit
-   degit git@github.com:rayandus/store-locator-demo.git my-app
+   degit git@github.com:rayandus/template-react-ts-vite.git my-app
    ```
    
    > `degit` makes a copy of the repository without the git history.
